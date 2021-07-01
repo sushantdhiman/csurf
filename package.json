@@ -1,13 +1,9 @@
 {
-  "name": "csurf",
+  "name": "csurf-sep",
   "description": "CSRF token middleware",
-  "version": "1.11.0",
+  "version": "1.0.0",
   "author": "Jonathan Ong <me@jongleberry.com> (http://jongleberry.com)",
-  "contributors": [
-    "Douglas Christopher Wilson <doug@somethingdoug.com>"
-  ],
   "license": "MIT",
-  "repository": "expressjs/csurf",
   "dependencies": {
     "cookie": "0.4.0",
     "cookie-signature": "1.0.6",

@@ -1,4 +1,4 @@
-declare module "csurf" {
+declare module "csurf-sep" {
   import express from "express-serve-static-core";
 
   global {
