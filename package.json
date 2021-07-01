@@ -42,8 +42,10 @@
   "files": [
     "HISTORY.md",
     "LICENSE",
-    "index.js"
+    "index.js",
+    "types.d.ts"
   ],
+  "types": "types.d.ts",
   "keywords": [
     "csrf",
     "tokens",
